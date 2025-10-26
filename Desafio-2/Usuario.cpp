@@ -1,4 +1,3 @@
-// src/Usuario.cpp
 #include "Usuario.h"
 
 using namespace std;

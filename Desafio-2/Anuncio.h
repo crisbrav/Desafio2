@@ -1,4 +1,3 @@
-// include/Anuncio.h
 #ifndef ANUNCIO_H
 #define ANUNCIO_H
 

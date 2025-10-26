@@ -1,4 +1,3 @@
-// include/Creditos.h
 #ifndef CREDITOS_H
 #define CREDITOS_H
 

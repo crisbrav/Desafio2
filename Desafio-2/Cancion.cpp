@@ -1,4 +1,3 @@
-// src/Cancion.cpp
 #include "Cancion.h"
 
 using namespace std;

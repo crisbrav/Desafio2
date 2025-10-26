@@ -1,4 +1,3 @@
-// src/Anuncio.cpp
 #include "Anuncio.h"
 
 Anuncio::Anuncio(): id(0), categoria(CategoriaAnuncio::C) {}

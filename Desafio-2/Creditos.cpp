@@ -1,4 +1,3 @@
-// src/Creditos.cpp
 #include "Creditos.h"
 #include <iostream>
 

@@ -12,7 +12,7 @@ private:
 
     void asegurar(int nuevaCap) {
         if (nuevaCap <= capacidad) return;
-        int cap = (capacidad == 0 ? 4 : capacidad);
+        int cap = (capacidad == 0 ? 8 : capacidad);
         while (cap < nuevaCap) cap <<= 1;
         T* nuevo = new T[cap];
         ajustar_memoria(sizeof(T) * cap);
@@ -27,6 +27,10 @@ private:
 
 public:
     ArregloDinamico(): datos(nullptr), cantidad(0), capacidad(0) {}
+
+    void reservar(int capMin){
+        if(capMin>capacidad) asegurar(capMin);
+    }
 
     ArregloDinamico(const ArregloDinamico& o): datos(nullptr), cantidad(0), capacidad(0) {
         asegurar(o.cantidad);
