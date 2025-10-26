@@ -1,0 +1,11 @@
+demo|premium|Medellín|Colombia|2025-10-01
+invitado|standard|Bogotá|Colombia|2025-10-02
+luna|premium|Cali|Colombia|2025-09-15
+sol|standard|Lima|Perú|2025-08-20
+mar|premium|Quito|Ecuador|2025-07-11
+rio|standard|Santiago|Chile|2025-06-30
+tierra|premium|Buenos Aires|Argentina|2025-05-05
+aire|standard|Montevideo|Uruguay|2025-04-22
+estrella|premium|Caracas|Venezuela|2025-03-14
+nube|standard|La Paz|Bolivia|2025-02-10
+

@@ -1,0 +1,15 @@
+100011001|10001|10|Primera Canción|180|./audio/primera
+100011002|10001|10|Segunda Canción|210|./audio/segunda
+100011003|10001|10|Tercera Ruta|205|./audio/tercera
+100011204|10001|12|Noche Brilla|198|./audio/noche_brilla
+100011205|10001|12|Cima del Sol|220|./audio/cima_sol
+100021101|10002|11|Sol de Tarde|200|./audio/sol_tarde
+100021102|10002|11|Luna del Sur|190|./audio/luna_sur
+100021103|10002|11|Olas y Arena|230|./audio/olas_arena
+100031301|10003|13|Metal Rio|240|./audio/metal_rio
+100031302|10003|13|Puente de Hierro|260|./audio/puente_hierro
+100041401|10004|14|Nieve Azul|185|./audio/nieve_azul
+100041402|10004|14|Viento Frio|195|./audio/viento_frio
+100051501|10005|15|Lianas|175|./audio/lianas
+100051502|10005|15|Jaguar|205|./audio/jaguar
+100051503|10005|15|Lluvia Electrica|215|./audio/lluvia_electrica
