@@ -1,0 +1,6 @@
+10001|10|Album Demo|2025-09-20|5400|IndieLabel|./covers/album_demo.png|8|Pop,Rock
+10001|12|Noches Andinas|2024-11-11|3700|Cordillera|./covers/noches_andinas.png|9|Pop,Latina
+10002|11|Segundo Viaje|2024-12-10|4200|LatamMusic|./covers/segundo_viaje.png|7|Latina
+10003|13|Río de Metal|2023-06-06|3900|SurRock|./covers/rio_metal.png|8|Rock
+10004|14|Jazz de Invierno|2022-01-21|2800|Pacífico|./covers/jazz_invierno.png|9|Jazz,Blues
+10005|15|Electro Selva|2025-05-05|3600|AndesBeat|./covers/electro_selva.png|7|Electronica
